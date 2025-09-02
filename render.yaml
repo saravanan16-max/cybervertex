@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: cyber-knights-quest
+    env: static
+    staticPublishPath: ./
+    buildCommand: ""
